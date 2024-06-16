@@ -5,4 +5,4 @@ homepage: https://github.com/a14n/dart-js-wrapping
 environment:
   sdk: '>=2.12.0 <3.0.0'
 dependencies:
-  js: ^0.6.3
+  js: ^0.7.1
